@@ -39,6 +39,7 @@ const icons = {
   neo: 'neo',
   stellar: 'stellar',
   monero: 'monero',
+  lbry: 'lbry',
   gnupg: 'gnupg',
 }
 
